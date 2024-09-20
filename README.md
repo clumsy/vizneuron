@@ -9,8 +9,7 @@ VizNeuron currently only supports memory usage tracing via [Neuron Sysfs Filesys
 The preferred way to install VizNeuron is via pip:
 
 ```sh
-git clone git@github.com:clumsy/vizneuron.git && cd vizneuron
-pip install -e .
+pip install vizneuron
 ```
 
 # Basic Usage

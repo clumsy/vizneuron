@@ -19,7 +19,7 @@ setuptools.setup(
     version=version,
     author="Alexander Jipa",
     author_email="alexander.jipa@gmail.com",
-    description="AWS Neuron plugins for viztracer",
+    description="AWS Neuron plugins for VizTracer",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/clumsy/vizneuron",
